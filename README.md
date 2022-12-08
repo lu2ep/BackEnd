@@ -1,27 +1,12 @@
-# Maquetahtml2
+# Backend
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.4.
+Este es el Backend del proyecto integrador Portfolio Web que debemos presentar en Enero de 2023.
 
-## Development server
+## Disculpen si voy adelantado y desprolijo , es que estoy estudiando ingles, que solo se lo de la secundaria y un poquito de la facultad y nada más...
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+ Desprolijo que recién le tomo la mano a este nuevo sistema de estudios de consultas, preguntas y trabajando en equipo, con varios compañeros de cursada 
+ nos damos cuenta que la forma de aprender nuestra, es con un profesor adelante que te enseñaba la materia... bueno, siempre se vive aprendiendo, cosa que 
+ estamos logrando.
+ Gracias a Yaes la Profe Pinco  y  Gabriel Gomez , que siempre estan preguntando como andamos con mucha dedicación y respeto.
+ 
+ no tengo otras palabras que GRACIAS, GRACIAS, GRACIAS...
